@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladyslav Dmitriyev, QA from Kyiv, Ukraine.
+- 👋 Hi, I’m Vladyslav Dmitriiev, QA from Kyiv, Ukraine.
 - 👀 I’m interested in web automation
 - 🌱 I’m currently learning js/ts
 - 📫 How to reach me:
